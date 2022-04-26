@@ -1,4 +1,4 @@
-const input = require('readline-sync');
+const input = require('../node_modules/readline-sync');
 
 const x1 = input.question('Escreva o valor de x1: ');
 const y1 = input.question('Escreva o valor de y1: ');
